@@ -1,0 +1,17 @@
+REQUIREMENTS
+      Hardware Requirements:
+            Processor : Intel Core i3 and i5
+            RAM : 4GB and 8GB
+           System Type : 64bit Operating System.
+      Software Requirements:
+          PostgreSQL 13.0.1
+            - PostgreSQL database is an open-source relational database management system(RDBMS) that is used to store various complicated data.
+              pgAdmin v4.0.6
+            - PgAdmin is graphical user interface administration tool for PostgreSQL.
+
+          vs code-Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control.
+  
+          Python 3.8 and 3.9-Python is a popular programming language used to create web applications and can handle big data.
+
+          Django 3.1.1-Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel.
+                                        
